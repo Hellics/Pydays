@@ -1,7 +1,7 @@
 #bandname generator
 
 #welcome message
-print("Welcome to the bandname generator."
+print("Welcome to the bandname generator.")
 
 #ask user city name
 city=input("What's name of the city you grew up in?\n")
