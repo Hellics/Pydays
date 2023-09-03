@@ -10,4 +10,4 @@ city=input("What's name of the city you grew up in?\n")
 pet=input("What'syour pet name?\n")
 
 #bandname output
-print("Your bandname could be "+ city +" "+pet)
+print("Your bandname could be: " + city + " " + pet)
