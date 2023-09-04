@@ -2,7 +2,7 @@
 #adding code soon
 
 #Welcome to the tip calculator
-
+print("Wecome to the tip calculator!")
 #What was the total bill? $124.54
 
 #How many people to split the bill? 5
