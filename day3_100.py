@@ -40,4 +40,19 @@ $$$$"""$$$$$$$$$$uuu   uu$$$$$$$$$"""$$$"
 print('\u001b[31m'+"Let your soul fly, maybe you're not dying.")
 print('\u001b[92m'+"------------------------------------------")
 
+cho=input('Welcome to the Netdoor, if you want to enter chose the right side. Left/Right')
+
+if cho == "Right":
+    print("""
+             You are in... Your eyes begun to see briliant light all around.
+             Istantly everyting change now there are black spot in a light green sky
+             your foot are bigger and you have only one shoe but it could be your only foot.
+             This is THE NET.""")
+    input("")
+
+
+
+
+else:
+    print("Your live simply expires... YOU ARE DEAD.")
 
