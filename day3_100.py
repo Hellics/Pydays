@@ -48,11 +48,13 @@ if cho == "Right":
              Istantly everyting change now there are black spot in a light green sky
              your foot are bigger and you have only one shoe but it could be your only foot.
              This is THE NET.""")
-    input("")
+    print("Don't waste your time, every second behind the NETDOOR burn your soul")
+    cho2 =input("Time is running stop floating, start flyng! Where do you want to go? up, down, left, right")
+    if cho2
 
 
 
 
 else:
     print("Your live simply expires... YOU ARE DEAD.")
-
+print ("Vediamo se ora lo aggiorna")
