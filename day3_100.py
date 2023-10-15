@@ -57,4 +57,3 @@ if cho == "Right":
 
 else:
     print("Your live simply expires... YOU ARE DEAD.")
-print ("Vediamo se ora lo aggiorna")
